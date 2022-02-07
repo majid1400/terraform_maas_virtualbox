@@ -15,7 +15,6 @@ Connection Terraform to maas and virtualbox.
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the Apache License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
