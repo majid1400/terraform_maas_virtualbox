@@ -10,7 +10,7 @@ Connection Terraform to maas and virtualbox.
 ## Getting Started
 
   ```sh
-  terraform aplly
+  terraform apply
   ```
 
 <!-- LICENSE -->
